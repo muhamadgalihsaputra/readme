@@ -47,10 +47,12 @@ In all my projects, I prioritize concrete utility and quality over speculative n
 
 </div>
 
+<br><br>
+
 <!-- badges -->
 <div align="center">
   <strong>Connect</strong>
-  </br>
+  <br><br>
 
   <!-- X -->
   <a href="https://x.com/galyarder" target="_blank">
@@ -89,7 +91,6 @@ In all my projects, I prioritize concrete utility and quality over speculative n
 </br>
 
 <!-- My contributions title -->
-<h3 align="center">My Contributions</h3>
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhamadgalihsaputra&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
 
@@ -104,6 +105,7 @@ In all my projects, I prioritize concrete utility and quality over speculative n
       <img src="https://skillicons.dev/icons?i=tailwind,vite,vue,py,nodejs,go" /><br>
       <img src="https://skillicons.dev/icons?i=rust,postgres,redis,solidity,docker,linux" /><br>
       <img src="https://skillicons.dev/icons?i=nginx,terraform,git,github,figma,postman" /><br>
+      <img src="https://skillicons.dev/icons?i=discord,arch,notion,spotify,obsidian,bun" /><br>
     </td>
     <!---->
     <td valign="top" align="center" width="55%">
