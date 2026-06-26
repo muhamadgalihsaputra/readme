@@ -120,4 +120,6 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
   </tr>
 </table>
 
-<img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
+<div align="center">
+  <img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
+</div>
