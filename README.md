@@ -28,33 +28,20 @@
 
 </br>
 
-<!-- About -->
+<!-- Who am i? -->
 <img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=390 align="left">
 <div align="center">
 
-**About Me**
+**Who Am I?**
 </div>
 
 <div align="justify">
 
-I’m Galih — someone who observes, learns, and builds. Most of my work right now is around Galyarder Labs: AI agents, workflow automation, knowledge systems, finance / operations tools, and web products.
+I’m Galih — someone who observes, learns, and builds. Most of my work right now is centered around Galyarder Labs, where I focus on developing AI agents, workflow automation, knowledge systems, finance / operations tools, and practical web products. I care about building systems that are useful, understandable, and sustainable.
 
-I care about building things that are useful, understandable, and easier to continue after the first version ships.
+My current direction is focused on AI agents, context-aware tools, browser automation, and local-first workflows. I also build dashboards, internal tools, and work with cryptography or Web3 when ownership and verification matter. 
 
-### Current Direction
-- AI agents and workflow automation
-- Knowledge systems and context-aware tools
-- Finance / operations tooling
-- Dashboards and internal tools
-- Browser automation and local-first workflows
-- Cryptography / Web3 when ownership or verification matters
-
-### What I Value in Systems
-- Useful output over noise
-- Clear state, logs, tests, and reviews
-- Small iterations that can actually ship
-- Tools that support human judgment
-- Ownership, patience, and long-term improvement
+In everything I build, I value useful output over noise, clear state and logs, small iterations that can actually ship, and tools that support human judgment. I believe in ownership, patience, and long-term improvement.
 
 </div>
 
