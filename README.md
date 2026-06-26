@@ -5,27 +5,32 @@
   </a>
 </div>
 
+<br>
+
 <div align="center">
 
   <a href="https://api.github-star-counter.workers.dev/user/muhamadgalihsaputra">
     <img width="120px" 
         alt="Stars" 
         title="Stars Profile" 
-        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/muhamadgalihsaputra" /> 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/muhamadgalihsaputra" /> 
   </a>
+  &nbsp;
   <a href="https://github.com/muhamadgalihsaputra">
     <img width="165px" 
         alt="Profile Views" 
         title="Profile Views" 
-        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=eye&color=000000&labelColor=FF1001&logoColor=ffffff&label=Profile+Views&style=for-the-badge&query=%24.views&url=https://views.igorkowalczyk.dev/api/json/muhamadgalihsaputra&cacheSeconds=0" /> 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=eye&color=000000&labelColor=FF1001&logoColor=ffffff&label=Profile+Views&style=for-the-badge&query=%24.views&url=https://views.igorkowalczyk.dev/api/json/muhamadgalihsaputra&cacheSeconds=0" /> 
   </a>
   <img src="https://views.igorkowalczyk.dev/api/badge/muhamadgalihsaputra" width="1" height="1" style="opacity: 0; position: absolute;" />
+  &nbsp;
   <a href="https://github.com/muhamadgalihsaputra?tab=followers">
     <img width="150px" 
         alt="Followers" 
         title="Github Followers" 
         src="https://custom-icon-badges.herokuapp.com/github/followers/muhamadgalihsaputra?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
   </a>
+
 </div>
 
 </br>
