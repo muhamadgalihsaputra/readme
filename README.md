@@ -37,7 +37,11 @@
 
 <div align="justify">
 
-I am Galih, a builder and developer who focuses on observing patterns, learning continuously, and building functional systems at Galyarder Labs. My current work spans AI agents, workflow automation, knowledge systems, finance / operations tools, and practical web products. In all my projects, I value useful output over noise, clear state and logs, small iterations that can actually ship, and tools that support human judgment, with a strong commitment to ownership, patience, and continuous long-term improvement.
+I am Galih, a builder and developer who focuses on observing patterns, learning continuously, and building functional software systems. Most of my work right now is centered around Galyarder Labs, where I design and implement autonomous AI agents, advanced workflow automations, and context-aware knowledge systems. I am highly committed to building systems that are not only immediately useful but also structured cleanly so they are easy to understand, maintain, and expand as the project evolves over time.
+
+My current technical direction spans a variety of modern domains, including browser automation, local-first workflows, and dedicated dashboards for internal operations. I spend a significant amount of time crafting tools that automate repetitive tasks and optimize operational workflows, as well as developing custom finance and operations systems that provide clarity to business processes. When ownership, transparency, or decentralized verification is required, I also work with cryptography and Web3 technologies to build resilient systems.
+
+In all my projects, I prioritize concrete utility and quality over speculative noise. I believe that good software relies on having a clear state, comprehensive logs, robust tests, and thorough code reviews. I prefer shipping in small, vertical iterations that deliver value quickly rather than building over-engineered systems. Ultimately, I design tools to support human judgment and believe in fostering true ownership, patience, and continuous long-term improvement in every codebase I touch.
 
 </div>
 <br clear="left" />
@@ -103,10 +107,7 @@ I am Galih, a builder and developer who focuses on observing patterns, learning 
       <img src="./assets/images/Stack.svg">
       </br>
       </br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" /><br>
-      <img src="https://skillicons.dev/icons?i=tailwind,vite,vue,py,nodejs,go" /><br>
-      <img src="https://skillicons.dev/icons?i=rust,postgres,redis,supabase,docker,linux" /><br>
-      <img src="https://skillicons.dev/icons?i=nginx,terraform,solidity,git,github,figma" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,vue,py,nodejs,go,rust,postgres,redis,supabase,docker,linux,nginx,terraform,solidity,git,github,figma" /><br>
     </td>
     <!---->
     <td valign="top" width="55%">
