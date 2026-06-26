@@ -11,11 +11,11 @@
         title="Stars Profile" 
         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/muhamadgalihsaputra" /> 
   </a>
-  <a href="https://api.github-star-counter.workers.dev/user/muhamadgalihsaputra">
-    <img width="111px" 
-        alt="forks" 
-        title="Forks Repository" 
-        src="https://custom-icon-badges.demolab.com/github/forks/Glauedson/Glauedson?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
+  <a href="https://github.com/muhamadgalihsaputra">
+    <img width="165px" 
+        alt="Profile Views" 
+        title="Profile Views" 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=eye&color=000000&labelColor=FF1001&logoColor=ffffff&label=Profile+Views&style=for-the-badge&query=%24.views&url=https://views.igorkowalczyk.dev/api/json/muhamadgalihsaputra" /> 
   </a>
   <a href="https://github.com/Glauedson?tab=followers">
     <img width="150px" 
