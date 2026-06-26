@@ -106,9 +106,9 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
       <img src="./assets/images/Stack.svg">
       </br>
       </br>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,vue" /><br>
-      <img src="https://skillicons.dev/icons?i=py,nodejs,go,rust,postgres,redis" /><br>
-      <img src="https://skillicons.dev/icons?i=docker,linux,nginx,terraform,solidity" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" /><br>
+      <img src="https://skillicons.dev/icons?i=vue,py,nodejs,go,rust,postgres,redis,supabase" /><br>
+      <img src="https://skillicons.dev/icons?i=docker,linux,nginx,terraform,solidity,git,github,figma" /><br>
     </td>
     <!---->
     <td valign="top" width="55%">
