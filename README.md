@@ -106,7 +106,10 @@ In all my projects, I prioritize concrete utility and quality over speculative n
       <img src="./assets/images/Stack.svg">
       </br>
       </br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,vue,py,nodejs,go,rust,postgres,redis,supabase,docker,linux,nginx,terraform,solidity,git,github,figma" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" /><br>
+      <img src="https://skillicons.dev/icons?i=tailwind,vite,vue,py,nodejs,go" /><br>
+      <img src="https://skillicons.dev/icons?i=rust,postgres,redis,supabase,docker,linux" /><br>
+      <img src="https://skillicons.dev/icons?i=nginx,terraform,solidity,git,github,figma" /><br>
     </td>
     <!---->
     <td valign="top" width="55%">
