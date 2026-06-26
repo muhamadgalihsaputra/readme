@@ -28,20 +28,33 @@
 
 </br>
 
-<!-- Who am i? -->
+<!-- About -->
 <img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=390 align="left">
 <div align="center">
 
-**Who Am I?**
+**About Me**
 </div>
 
 <div align="justify">
 
-I am a graduated **Software Developer** with a degree in `Systems Analysis and Development`, currently working as a **freelancer** while actively seeking an opportunity in the **technology field**. My professional journey is driven by **continuous learning**, **practical experience**, and a strong commitment to delivering **complete and functional systems** for real-world needs.
+I’m Galih — someone who observes, learns, and builds. Most of my work right now is around Galyarder Labs: AI agents, workflow automation, knowledge systems, finance / operations tools, and web products.
 
-Over time, I have developed **solid experience** across the **web development ecosystem**, with a strong passion for `Front-End Development`, where **logic meets creativity and visual design**. Alongside web technologies, I have expanded my skills into **mobile development**, focusing on building modern applications using `Android Studio` and `React Native`.
+I care about building things that are useful, understandable, and easier to continue after the first version ships.
 
-At the moment, I am working as a **freelancer**, developing **complete systems** for companies in my city, from **planning and interface design** to **implementation and delivery**. This hands-on experience has strengthened my **problem-solving skills**, **technical versatility**, and ability to understand **business needs**, while constantly pushing me to grow as a **developer and professional**.
+### Current Direction
+- AI agents and workflow automation
+- Knowledge systems and context-aware tools
+- Finance / operations tooling
+- Dashboards and internal tools
+- Browser automation and local-first workflows
+- Cryptography / Web3 when ownership or verification matters
+
+### What I Value in Systems
+- Useful output over noise
+- Clear state, logs, tests, and reviews
+- Small iterations that can actually ship
+- Tools that support human judgment
+- Ownership, patience, and long-term improvement
 
 </div>
 
